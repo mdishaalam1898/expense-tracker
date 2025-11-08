@@ -7,7 +7,7 @@ A simple and elegant **React-based Expense Tracker** that helps users record and
 ---
 
 ## 🚀 Live Demo
-👉 [Live Site on Netlify](my-expense-tracker-2025.netlify.app)
+👉 [Live Site on Netlify](https://my-expense-tracker-2025.netlify.app/)
 
 ---
 
