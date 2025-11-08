@@ -28,3 +28,6 @@ A simple and elegant **React-based Expense Tracker** that helps users record and
 
 ---
 
+## 🧑‍💻 Author
+**Md Isha Alam**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mdishaalam8340/)
