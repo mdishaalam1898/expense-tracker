@@ -6,6 +6,12 @@ A simple and elegant **React-based Expense Tracker** that helps users record and
 
 ---
 
+## 🖼️ Screenshots
+
+| Dashboard | Add Expense |
+|------------|--------------|
+| ![Dashboard](./screenshots/screenshot1.png) | ![Add Expense](./screenshots/screenshot2.png) |
+
 ## 🚀 Live Demo
 👉 [Live Site on Netlify](https://my-expense-tracker-2025.netlify.app/)
 
